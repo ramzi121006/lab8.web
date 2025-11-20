@@ -84,7 +84,7 @@ Fitur pada halaman ini:
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab8Web./blob/7be584f4b85a18dec4385243c71600edfd9d3289/SS_Prak8/Index.png)
+![foto](https://github.com/ramzi121006/lab8.web/blob/600e7fdadbe6f5cbbf54c53b44f35fe0ca14eebf/ss_prak8/index.png)
 
 ## ➕ 4. Menambah Data Barang (tambah.php)
 
