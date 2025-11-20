@@ -43,7 +43,7 @@ CREATE TABLE data_barang (
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab8Web./blob/a2017621632cec0e90789d9b45fe398cd544a281/SS_Prak8/Xamp.png)
+![foto](https://github.com/ramzi121006/lab8.web/blob/5741d028ba86cd3b444f6b3aa538c0cb1dfa3ce3/ss_prak8/Xamp.png)
 
 ## 2. Membuat Koneksi Database (koneksi.php)
 
