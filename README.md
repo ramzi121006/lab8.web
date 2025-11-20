@@ -136,4 +136,4 @@ Setelah dihapus, halaman akan langsung kembali ke index.php.
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab8Web./blob/45d9ccde0e7283cf225861a8f8284b957b950ea6/SS_Prak8/hapus.png) 
+![foto](https://github.com/ramzi121006/lab8.web/blob/4ef6d0b31cb359007891a80ab09201b37c0f27c3/ss_prak8/Hapus.png) 
