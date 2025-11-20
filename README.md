@@ -127,7 +127,7 @@ Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab8Web./blob/3824c684ec5eb88e2621e10a3d3001c7039175b3/SS_Prak8/ubah.png)
+![foto](https://github.com/ramzi121006/lab8.web/blob/7d5f0a194d2ac090fe3a1ca2d7ac0feff9bf5e77/ss_prak8/Ubah.png)
 
 ## ❌ 6. Menghapus Data (hapus.php)
 
