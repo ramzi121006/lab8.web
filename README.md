@@ -106,7 +106,7 @@ Data yang diinput akan disimpan dalam database.
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab8Web./blob/719dcc702e53e00cd51bee8e04eb5481925f865d/SS_Prak8/tambah.png)
+![foto](https://github.com/ramzi121006/lab8.web/blob/385089f725c0752281f758586a5bf159dd143585/ss_prak8/Tambah.png)
 
 ## ✏️ 5. Mengubah Data (ubah.php)
 
